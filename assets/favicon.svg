@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1.003922,0,0,1.01992,-2.007843,-10.199203)">
+        <path d="M512,109.311L512,412.689C512,467.5 466.791,512 411.106,512L102.894,512C47.209,512 2,467.5 2,412.689L2,109.311C2,54.5 47.209,10 102.894,10L411.106,10C466.791,10 512,54.5 512,109.311Z" style="fill:rgb(241,232,216);"/>
+    </g>
+    <g transform="matrix(5.085366,0,0,5.085366,-759.762126,-855.978608)">
+        <text x="173.342px" y="234.243px" style="font-family:'BricolageGrotesque-96ptExtraBold', 'Bricolage Grotesque', sans-serif;font-weight:800;font-size:50px;">nl</text>
+        <g transform="matrix(50,0,0,50,225.342193,234.242525)">
+        </g>
+        <text x="213.042px" y="234.243px" style="font-family:'BricolageGrotesque-96ptExtraBold', 'Bricolage Grotesque', sans-serif;font-weight:800;font-size:50px;fill:rgb(210,67,34);">.</text>
+    </g>
+</svg>
