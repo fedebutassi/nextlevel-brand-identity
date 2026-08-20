@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <style>
+    @font-face{font-family:Bricolage;src:url('../../../fonts/BricolageGrotesque_24pt_Condensed-Bold.ttf');font-weight:800}
+    @font-face{font-family:Bricolage;src:url('../../../fonts/BricolageGrotesque_24pt_Condensed-SemiBold.ttf');font-weight:600}
+    @font-face{font-family:Bricolage;src:url('../../../fonts/BricolageGrotesque_24pt_Condensed-ExtraLight.ttf');font-weight:300}
+    :root{--paper:#F1E8D8;--ink:#1A1410;--accent:#D24322;--sand:#9D8B75;--paper2:#E6DCC6}
+    *{box-sizing:border-box}
+    html,body{margin:0;width:1080px;height:1920px;overflow:hidden;background:var(--paper)}
+    body{font-family:Bricolage,sans-serif;color:var(--ink)}
+    .scene{position:absolute;inset:0;padding:190px 180px 350px 90px;opacity:0;overflow:hidden}
+    .paper{background:var(--paper);color:var(--ink)}
+    .dark{background:var(--ink);color:var(--paper)}
+    .brand{position:absolute;top:245px;left:90px;width:190px;height:auto}
+    .dark .brand{content:url('../../../assets/logo-dark.svg')}
+    .counter{position:absolute;top:257px;right:180px;font-family:ui-monospace,monospace;font-size:18px;letter-spacing:4px;color:var(--sand)}
+    .content{position:absolute;left:90px;right:180px;top:480px;transform-origin:left center}
+    .title{font-size:130px;line-height:.92;letter-spacing:-4px;font-weight:800;max-width:810px}
+    .accent{color:var(--accent)}
+    .note{font-size:42px;line-height:1.12;font-weight:300;color:#756757;margin-top:54px;max-width:730px}
+    .dark .note{color:rgba(241,232,216,.68)}
+    .progress{position:absolute;left:90px;right:180px;bottom:350px;height:5px;background:rgba(157,139,117,.22);overflow:hidden}
+    .progress span{display:block;width:0;height:100%;background:var(--accent)}
+    .search{margin-top:78px;width:760px;height:112px;border:2px solid rgba(26,20,16,.25);border-radius:56px;display:flex;align-items:center;padding:0 42px;font-size:34px;font-weight:300;color:#756757;overflow:hidden}
+    .search-dot{width:34px;height:34px;border:4px solid var(--accent);border-radius:50%;margin-right:30px;position:relative;flex:none}
+    .search-dot:after{content:'';position:absolute;width:18px;height:4px;background:var(--accent);right:-14px;bottom:-7px;transform:rotate(45deg)}
+    .search-result{width:760px;height:120px;margin-top:20px;border-left:8px solid var(--accent);background:var(--paper2);padding:22px 30px;opacity:0}
+    .search-result strong{display:block;font-size:28px;font-weight:600}.search-result small{font-size:22px;font-weight:300;color:#756757}
+    .social-profile{position:absolute;top:950px;left:90px;width:810px;height:430px;padding:34px;background:var(--paper);color:var(--ink);border-radius:28px;box-shadow:0 34px 75px -40px rgba(0,0,0,.65);overflow:hidden}
+    .profile-head{display:flex;align-items:center;gap:24px;margin-bottom:30px}.avatar{width:78px;height:78px;border:4px solid var(--accent);border-radius:50%;display:grid;place-items:center;font-size:30px;font-weight:800}.profile-copy strong{font-size:30px}.profile-copy span{display:block;font-size:22px;color:var(--sand)}
+    .old-posts{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}.old-post{height:220px;background:#D7CCB8;border-radius:14px;padding:20px;display:flex;align-items:flex-end;color:#756757;font:18px ui-monospace,monospace}.old-post:nth-child(2){background:#C8B89F}.old-post:nth-child(3){background:#B8A68D}
+    .contact-fragment{position:absolute;top:1030px;left:90px;width:810px;height:300px;border-top:2px solid #C8BBA4;border-bottom:2px solid #C8BBA4;display:flex;align-items:center;justify-content:center;overflow:hidden}.contact-fragment .digits{font-size:82px;font-weight:800;letter-spacing:4px}.contact-fragment .digits span{display:inline-block}.question{position:absolute;font-size:260px;font-weight:800;color:var(--accent);opacity:0}
+    .video-browser{position:absolute;top:950px;left:90px;width:810px;height:520px;border:10px solid var(--ink);border-top-width:54px;border-radius:24px;overflow:hidden;background:var(--ink);box-shadow:0 34px 70px -38px rgba(26,20,16,.55)}
+    .video-browser:before{content:'●  ●  ●';position:absolute;top:-43px;left:20px;color:var(--accent);font:18px ui-monospace,monospace;letter-spacing:8px;z-index:2}
+    .video-browser video{width:100%;height:100%;object-fit:cover;object-position:top center}
+    .scanline{position:absolute;left:0;right:0;top:0;height:8px;background:var(--accent);box-shadow:0 0 28px var(--accent);opacity:.8}
+    .portfolio-showcase{position:absolute;top:900px;left:90px;width:810px;height:560px}
+    .portfolio-showcase img{position:absolute;top:-20px;left:-85px;width:980px;height:560px;object-fit:contain;filter:drop-shadow(0 30px 34px rgba(0,0,0,.42));transform-origin:center}
+    .portfolio-showcase img:last-of-type{opacity:0}
+    .project-name{position:absolute;right:0;bottom:-10px;padding:13px 22px;border-radius:999px;background:var(--accent);color:var(--paper);font:18px ui-monospace,monospace;letter-spacing:2px}
+    .underline{height:18px;width:0;background:var(--accent);margin-top:34px}
+    .button{display:inline-flex;margin-top:70px;padding:28px 52px;border-radius:999px;background:var(--accent);color:var(--paper);font-size:35px;font-weight:600;letter-spacing:.5px}
+    .url{margin-top:35px;font-family:ui-monospace,monospace;font-size:22px;letter-spacing:4px;color:var(--sand)}
+    .cta .content{top:610px;text-align:center;left:90px;right:180px}
+    .cta .title{font-size:122px;max-width:810px}
+    .cta .note{margin:55px auto 0;max-width:690px}
+    .cta .button{margin-top:72px;transform-origin:center}
+  </style>
+</head>
+<body>
+  <section class="scene paper" data-start="0" data-end="3.2">
+    <img class="brand" src="../../../assets/logo.svg"><span class="counter">01 / 06</span>
+    <div class="content"><div class="title">Un cliente busca tu negocio.<br><span class="accent">¿Qué encuentra?</span></div><div class="note">La decisión empieza antes de que te escriba.</div><div class="search"><span class="search-dot"></span><span class="typed"></span></div><div class="search-result"><strong>Tu negocio</strong><small>Información, servicios y contacto</small></div></div>
+    <div class="progress"><span></span></div>
+  </section>
+  <section class="scene dark" data-start="3.2" data-end="6.1">
+    <img class="brand" src="../../../assets/logo.svg"><span class="counter">02 / 06</span>
+    <div class="content"><div class="title">Un perfil<br><span class="accent">desactualizado.</span></div><div class="note">La información importante queda mezclada entre publicaciones.</div></div>
+    <div class="social-profile"><div class="profile-head"><div class="avatar">?</div><div class="profile-copy"><strong>@tu.negocio</strong><span>Última actualización: hace demasiado</span></div></div><div class="old-posts"><div class="old-post">PUBLICACIÓN 01</div><div class="old-post">PUBLICACIÓN 02</div><div class="old-post">PUBLICACIÓN 03</div></div></div><div class="progress"><span></span></div>
+  </section>
+  <section class="scene paper" data-start="6.1" data-end="9">
+    <img class="brand" src="../../../assets/logo.svg"><span class="counter">03 / 06</span>
+    <div class="content"><div class="title">Un número<br><span class="accent">sin contexto.</span></div><div class="note">Todavía no sabe qué hacés ni por qué elegirte.</div></div><div class="contact-fragment"><div class="digits"><span>3</span><span>5</span><span>7</span><span>1</span><span>3</span><span>2</span><span>7</span><span>9</span><span>2</span><span>3</span></div><div class="question">?</div></div><div class="progress"><span></span></div>
+  </section>
+  <section class="scene paper" data-start="9" data-end="12.5">
+    <img class="brand" src="../../../assets/logo.svg"><span class="counter">04 / 06</span>
+    <div class="content"><div class="title">O una web<br><span class="accent">clara.</span></div><div class="note">Servicios, trabajos y contacto en un solo lugar.</div></div><div class="video-browser"><video src="../assets/recordings/nextlevel.mp4" muted loop autoplay playsinline></video><i class="scanline"></i></div><div class="progress"><span></span></div>
+  </section>
+  <section class="scene dark" data-start="12.5" data-end="15.6">
+    <img class="brand" src="../../../assets/logo.svg"><span class="counter">05 / 06</span>
+    <div class="content"><div class="title">La primera impresión<br><span class="accent">también vende.</span></div><div class="underline"></div><div class="note">Hacé que trabaje a favor de tu negocio.</div></div><div class="portfolio-showcase"><img src="../assets/mockups/ayres-hero.svg"><img src="../assets/mockups/butassi-hero.svg"><span class="project-name">AYRES / BUTASSI HNOS.</span></div><div class="progress"><span></span></div>
+  </section>
+  <section class="scene dark cta" data-start="15.6" data-end="19">
+    <img class="brand" src="../../../assets/logo.svg"><span class="counter">06 / 06</span>
+    <div class="content"><div class="title">¿Querés llevar tu negocio<br><span class="accent">al siguiente nivel?</span></div><div class="note">Diseñamos y desarrollamos tu sitio a medida.</div><div class="button">ESCRIBINOS →</div><div class="url">@NEXTLVL.OK</div></div><div class="progress"><span></span></div>
+  </section>
+  <script>
+    const clamp=(v,min,max)=>Math.min(max,Math.max(min,v));
+    const ease=v=>1-Math.pow(1-v,3);
+    window.renderAt=ms=>{
+      const t=ms/1000;
+      document.querySelectorAll('.scene').forEach((scene,index)=>{
+        const start=Number(scene.dataset.start),end=Number(scene.dataset.end);
+        const enter=clamp((t-start)/.36,0,1),exit=end===19?1:clamp((end-t)/.25,0,1);
+        const visible=Math.min(enter,exit);
+        scene.style.opacity=visible;
+        scene.style.zIndex=t>=start&&t<end?'2':'1';
+        const content=scene.querySelector('.content');
+        content.style.transform=`translateY(${(1-ease(enter))*75}px) scale(${.97+.03*ease(enter)})`;
+        scene.querySelector('.progress span').style.width=`${clamp((t-start)/(end-start),0,1)*100}%`;
+        const typed=scene.querySelector('.typed');
+        if(typed){const text='tu negocio en Google';typed.textContent=text.slice(0,Math.floor(clamp((t-start-.6)/1.1,0,1)*text.length));}
+        const result=scene.querySelector('.search-result');if(result){const reveal=ease(clamp((t-start-1.55)/.55,0,1));result.style.opacity=reveal;result.style.transform=`translateY(${(1-reveal)*24}px)`;}
+        const profile=scene.querySelector('.social-profile');if(profile){profile.style.clipPath=`inset(0 ${100-ease(enter)*100}% 0 0 round 28px)`;profile.querySelectorAll('.old-post').forEach((post,i)=>{const p=ease(clamp((t-start-.45-i*.16)/.5,0,1));post.style.transform=`translateY(${(1-p)*70}px) rotate(${(i-1)*2}deg)`;post.style.opacity=.35+.65*p;});}
+        const digits=scene.querySelectorAll('.digits span');digits.forEach((digit,i)=>{const local=t-start,p=ease(clamp((local-.25-i*.045)/.35,0,1)),scatter=clamp((local-1.65)/.65,0,1);digit.style.transform=`translate(${(i-4.5)*scatter*19}px,${Math.sin(i*2)*scatter*55+(1-p)*55}px) rotate(${(i-5)*scatter*5}deg)`;digit.style.opacity=1-scatter*.75;});const question=scene.querySelector('.question');if(question){const q=ease(clamp((t-start-1.75)/.5,0,1));question.style.opacity=q;question.style.transform=`scale(${.65+.35*q})`;}
+        const browser=scene.querySelector('.video-browser');
+        if(browser)browser.style.transform=`translateY(${(1-ease(enter))*55}px) rotate(${(1-ease(enter))*-2}deg) scale(${.96+.04*ease(enter)})`;
+        const scan=scene.querySelector('.scanline');if(scan)scan.style.transform=`translateY(${clamp((t-start)/3.5,0,1)*450}px)`;
+        const portfolio=scene.querySelector('.portfolio-showcase');if(portfolio){const swap=ease(clamp((t-start-1.35)/.55,0,1)),imgs=portfolio.querySelectorAll('img');imgs[0].style.opacity=1-swap;imgs[0].style.transform=`translateX(${-swap*85}px) scale(${1-swap*.08})`;imgs[1].style.opacity=swap;imgs[1].style.transform=`translateX(${(1-swap)*85}px) scale(${.92+.08*swap})`;}
+        scene.querySelectorAll('.project-stack img').forEach((img,i)=>img.style.transform=`translateY(${(1-ease(enter))*60+Math.sin((t-start)*2+i)*7}px) rotate(${i===0?-5+ease(enter)*2:6-ease(enter)*2}deg) scale(${.94+.06*ease(enter)})`);
+        const underline=scene.querySelector('.underline');
+        if(underline)underline.style.width=`${ease(clamp((t-start-.45)/.6,0,1))*540}px`;
+        const button=scene.querySelector('.cta .button');if(button)button.style.transform=`scale(${1+Math.sin((t-start)*4)*.025})`;
+      });
+    };
+    window.renderAt(0);
+  </script>
+</body>
+</html>

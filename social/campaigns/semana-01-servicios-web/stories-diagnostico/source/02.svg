@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+<style>
+  @font-face{font-family:Bricolage;src:url('../../../../../fonts/BricolageGrotesque_24pt_Condensed-Bold.ttf');font-weight:800}
+  @font-face{font-family:Bricolage;src:url('../../../../../fonts/BricolageGrotesque_24pt_Condensed-SemiBold.ttf');font-weight:600}
+  @font-face{font-family:Bricolage;src:url('../../../../../fonts/BricolageGrotesque_24pt_Condensed-ExtraLight.ttf');font-weight:300}
+</style><rect width="1080" height="1920" fill="#F1E8D8"/>
+    <image href="../../../../../assets/logo.svg" x="72" y="172" width="190" height="33"/>
+    <text x="1008" y="198" text-anchor="end" font-family="Bricolage" font-size="18" font-weight="600" letter-spacing="3" fill="#9D8B75">02 / 03</text>
+    <path d="M72 230H1008" stroke="#9D8B75" opacity=".5"/>
+    
+    <text x="72" y="430" text-anchor="start" font-family="Bricolage" font-size="88" font-weight="800" letter-spacing="-3" fill="#1A1410">Instagram y una web</text><text x="72" y="534" text-anchor="start" font-family="Bricolage" font-size="88" font-weight="800" letter-spacing="-3" fill="#D24322">cumplen funciones</text><text x="72" y="638" text-anchor="start" font-family="Bricolage" font-size="88" font-weight="800" letter-spacing="-3" fill="#1A1410">distintas.</text>
+    <g transform="translate(72 850)">
+      <rect width="438" height="480" rx="20" fill="#E6DCC6" stroke="#1A1410" stroke-width="4"/>
+      <text x="34" y="68" font-family="Bricolage" font-size="19" font-weight="600" letter-spacing="3" fill="#D24322">INSTAGRAM</text>
+      <text x="34" y="170" font-family="Bricolage" font-size="54" font-weight="800" fill="#1A1410">GENERA</text><text x="34" y="226" font-family="Bricolage" font-size="54" font-weight="800" fill="#1A1410">DESCUBRIMIENTO.</text>
+      <circle cx="350" cy="370" r="54" fill="#D24322"/><path d="M323 370H377M355 348L377 370 355 392" fill="none" stroke="#F1E8D8" stroke-width="7"/>
+      <rect x="470" width="438" height="480" rx="20" fill="#1A1410"/>
+      <text x="504" y="68" font-family="Bricolage" font-size="19" font-weight="600" letter-spacing="3" fill="#D24322">TU WEB</text>
+      <text x="504" y="170" font-family="Bricolage" font-size="54" font-weight="800" fill="#F1E8D8">ORDENA</text><text x="504" y="226" font-family="Bricolage" font-size="54" font-weight="800" fill="#F1E8D8">TU PROPUESTA.</text>
+      <text x="504" y="350" font-family="Bricolage" font-size="29" font-weight="300" fill="#C9B99F">Servicios, trabajos</text><text x="504" y="390" font-family="Bricolage" font-size="29" font-weight="300" fill="#C9B99F">y contacto.</text>
+    </g>
+    <text x="72" y="1730" font-family="Bricolage" font-size="16" font-weight="600" letter-spacing="3" fill="#9D8B75">DOS CANALES · DOS FUNCIONES</text>
+    <path d="M72 1760H1008" stroke="#9D8B75" opacity=".35"/>
+    <text x="1008" y="1810" text-anchor="end" font-family="Bricolage" font-size="15" font-weight="600" letter-spacing="2" fill="#9D8B75">@NEXTLVL.OK</text></svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<style>
+  @font-face{font-family:Bricolage;src:url('../../../../../fonts/BricolageGrotesque_24pt_Condensed-Bold.ttf');font-weight:800}
+  @font-face{font-family:Bricolage;src:url('../../../../../fonts/BricolageGrotesque_24pt_Condensed-SemiBold.ttf');font-weight:600}
+  @font-face{font-family:Bricolage;src:url('../../../../../fonts/BricolageGrotesque_24pt_Condensed-ExtraLight.ttf');font-weight:300}
+</style><rect width="1080" height="1350" fill="#F1E8D8"/>
+    <image href="../../../../../assets/logo.svg" x="64" y="52" width="164" height="28"/>
+    <text x="1016" y="76" text-anchor="end" font-family="Bricolage" font-size="16" font-weight="600" letter-spacing="2" fill="#9D8B75">05 / 08</text>
+    <path d="M64 104H1016" stroke="#9D8B75" opacity=".55"/>
+    
+    <text x="64" y="205" font-family="Bricolage" font-size="17" font-weight="600" letter-spacing="3" fill="#D24322">04 · CONFIANZA</text>
+    <text x="64" y="380" text-anchor="start" font-family="Bricolage" font-size="106" font-weight="800" letter-spacing="-3" fill="#1A1410">Mostrar</text><text x="64" y="492" text-anchor="start" font-family="Bricolage" font-size="106" font-weight="800" letter-spacing="-3" fill="#D24322">información real.</text>
+    <text x="64" y="655" font-family="Bricolage" font-size="31" font-weight="300" fill="#6B5E4F">Trabajos, proceso, respuestas y contacto.</text>
+    <g transform="translate(64 805)">
+      <g transform="translate(0 0)"><rect width="438" height="118" rx="10" fill="#E6DCC6" stroke="#9D8B75" stroke-width="3"/><circle cx="48" cy="59" r="16" fill="#D24322"/><text x="82" y="69" font-family="Bricolage" font-size="31" font-weight="800" fill="#1A1410">TRABAJOS</text></g><g transform="translate(470 0)"><rect width="438" height="118" rx="10" fill="#E6DCC6" stroke="#9D8B75" stroke-width="3"/><circle cx="48" cy="59" r="16" fill="#D24322"/><text x="82" y="69" font-family="Bricolage" font-size="31" font-weight="800" fill="#1A1410">PROCESO</text></g><g transform="translate(0 145)"><rect width="438" height="118" rx="10" fill="#E6DCC6" stroke="#9D8B75" stroke-width="3"/><circle cx="48" cy="59" r="16" fill="#D24322"/><text x="82" y="69" font-family="Bricolage" font-size="31" font-weight="800" fill="#1A1410">RESPUESTAS</text></g><g transform="translate(470 145)"><rect width="438" height="118" rx="10" fill="#1A1410" stroke="#1A1410" stroke-width="3"/><circle cx="48" cy="59" r="16" fill="#D24322"/><text x="82" y="69" font-family="Bricolage" font-size="31" font-weight="800" fill="#F1E8D8">CONTACTO</text></g>
+    </g>
+    <path d="M64 1292H1016" stroke="#9D8B75" opacity=".45"/>
+    <text x="64" y="1324" font-family="Bricolage" font-size="15" font-weight="600" letter-spacing="2" fill="#9D8B75">LANDING · SERVICIO</text>
+    <text x="1016" y="1324" text-anchor="end" font-family="Bricolage" font-size="15" font-weight="600" letter-spacing="2" fill="#9D8B75">NEXTLVL.OK</text></svg>

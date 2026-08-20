@@ -10,6 +10,18 @@
 - **Character**: A geometric grotesque with distinctive personality — slightly quirky letterforms, optical size axis that allows it to look polished at both headline and body sizes. Not as neutral as Inter or Helvetica, not as decorative as a display face. The sweet spot.
 - **Used for**: Everything — headings, body text, buttons, navigation
 
+### Static Files for Social Content
+
+The approved social-production files live in `fonts/`:
+
+| File | Use |
+|---|---|
+| `BricolageGrotesque_24pt_Condensed-Bold.ttf` | Headlines, large numbers, emphasized phrases |
+| `BricolageGrotesque_24pt_Condensed-SemiBold.ttf` | Subheadings and supporting statements |
+| `BricolageGrotesque_24pt_Condensed-ExtraLight.ttf` | Descriptions and secondary copy |
+
+Social content must use these exact files. System-font approximations are not accepted for final exports.
+
 ### JetBrains Mono — Monospace Accents
 - **Source**: Google Fonts
 - **Weights loaded**: 400, 500

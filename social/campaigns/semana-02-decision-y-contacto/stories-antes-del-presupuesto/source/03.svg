@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+    <style>
+  @font-face{font-family:Bricolage;src:url('../../../../../fonts/BricolageGrotesque_24pt_Condensed-Bold.ttf');font-weight:800}
+  @font-face{font-family:Bricolage;src:url('../../../../../fonts/BricolageGrotesque_24pt_Condensed-SemiBold.ttf');font-weight:600}
+  @font-face{font-family:Bricolage;src:url('../../../../../fonts/BricolageGrotesque_24pt_Condensed-ExtraLight.ttf');font-weight:300}
+</style>
+    <rect width="1080" height="1920" fill="#1A1410"/>
+    <image href="../../../../../assets/logo-dark.svg" x="72" y="172" width="190" height="33"/>
+    <text x="1008" y="198" text-anchor="end" font-family="Bricolage" font-size="18" font-weight="600" letter-spacing="3" fill="#C9B99F">03 / 03</text>
+    <path d="M72 230H1008" stroke="#C9B99F" opacity=".5"/>
+    
+    <text x="72" y="430" font-family="Bricolage" font-size="20" font-weight="600" letter-spacing="4" fill="#D24322">EL RESTO LO ORDENAMOS JUNTOS</text>
+    <text x="72" y="620" font-family="Bricolage" font-size="100" font-weight="800" letter-spacing="-3" fill="#F1E8D8">Tu idea puede</text><text x="72" y="732" font-family="Bricolage" font-size="100" font-weight="800" letter-spacing="-3" fill="#F1E8D8">empezar con una</text><text x="72" y="844" font-family="Bricolage" font-size="100" font-weight="800" letter-spacing="-3" fill="#D24322">conversación.</text>
+    <g transform="translate(72 1080)">
+      <rect width="890" height="260" rx="28" fill="#F1E8D8"/>
+      <circle cx="58" cy="58" r="14" fill="#D24322"/>
+      <text x="98" y="70" font-family="Bricolage" font-size="21" font-weight="600" letter-spacing="3" fill="#9D8B75">NUEVO MENSAJE</text>
+      <text x="42" y="180" font-family="Bricolage" font-size="70" font-weight="800" fill="#1A1410">WEB</text>
+      <path d="M750 142H830M798 110L830 142 798 174" fill="none" stroke="#D24322" stroke-width="10"/>
+    </g>
+    <rect x="72" y="1430" width="720" height="106" rx="53" fill="#D24322"/>
+    <text x="432" y="1498" text-anchor="middle" font-family="Bricolage" font-size="32" font-weight="600" fill="#F1E8D8">ESCRIBINOS “WEB” POR DM →</text>
+    <text x="72" y="1730" font-family="Bricolage" font-size="16" font-weight="600" letter-spacing="3" fill="#C9B99F">CONTACTO · DM</text>
+    <path d="M72 1760H1008" stroke="#C9B99F" opacity=".35"/>
+    <text x="1008" y="1810" text-anchor="end" font-family="Bricolage" font-size="15" font-weight="600" letter-spacing="2" fill="#C9B99F">@NEXTLVL.OK</text>
+  </svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+    <style>
+  @font-face{font-family:Bricolage;src:url('../../../../../fonts/BricolageGrotesque_24pt_Condensed-Bold.ttf');font-weight:800}
+  @font-face{font-family:Bricolage;src:url('../../../../../fonts/BricolageGrotesque_24pt_Condensed-SemiBold.ttf');font-weight:600}
+  @font-face{font-family:Bricolage;src:url('../../../../../fonts/BricolageGrotesque_24pt_Condensed-ExtraLight.ttf');font-weight:300}
+</style>
+    <rect width="1080" height="1920" fill="#F1E8D8"/>
+    <image href="../../../../../assets/logo.svg" x="72" y="172" width="190" height="33"/>
+    <text x="1008" y="198" text-anchor="end" font-family="Bricolage" font-size="18" font-weight="600" letter-spacing="3" fill="#9D8B75">01 / 03</text>
+    <path d="M72 230H1008" stroke="#9D8B75" opacity=".5"/>
+    
+    <text x="72" y="430" font-family="Bricolage" font-size="20" font-weight="600" letter-spacing="4" fill="#D24322">ANTES DEL PRESUPUESTO</text>
+    <text x="72" y="620" font-family="Bricolage" font-size="112" font-weight="800" letter-spacing="-3" fill="#1A1410">No necesitás</text><text x="72" y="738" font-family="Bricolage" font-size="112" font-weight="800" letter-spacing="-3" fill="#1A1410">tener todo</text><text x="72" y="856" font-family="Bricolage" font-size="112" font-weight="800" letter-spacing="-3" fill="#D24322">definido.</text>
+    <text x="72" y="1040" font-family="Bricolage" font-size="34" font-weight="300" fill="#6B5E4F">La primera conversación sirve para ordenar.</text>
+    <g transform="translate(72 1190)">
+      <path d="M40 0V260" stroke="#1A1410" stroke-width="6"/>
+      <circle cx="40" cy="0" r="28" fill="#D24322"/>
+      <circle cx="40" cy="130" r="28" fill="#E6DCC6" stroke="#1A1410" stroke-width="4"/>
+      <circle cx="40" cy="260" r="28" fill="#1A1410"/>
+      <text x="100" y="14" font-family="Bricolage" font-size="38" font-weight="800" fill="#1A1410">CONTAR</text>
+      <text x="100" y="144" font-family="Bricolage" font-size="38" font-weight="800" fill="#1A1410">ORDENAR</text>
+      <text x="100" y="274" font-family="Bricolage" font-size="38" font-weight="800" fill="#1A1410">DEFINIR</text>
+    </g>
+    <text x="72" y="1730" font-family="Bricolage" font-size="16" font-weight="600" letter-spacing="3" fill="#9D8B75">CONSULTA · PRIMER PASO</text>
+    <path d="M72 1760H1008" stroke="#9D8B75" opacity=".35"/>
+    <text x="1008" y="1810" text-anchor="end" font-family="Bricolage" font-size="15" font-weight="600" letter-spacing="2" fill="#9D8B75">@NEXTLVL.OK</text>
+  </svg>

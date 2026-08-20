@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <style>
+    @font-face {
+      font-family: "Bricolage";
+      src: url("../../../../fonts/BricolageGrotesque_24pt_Condensed-Bold.ttf");
+      font-weight: 800;
+    }
+    @font-face {
+      font-family: "Bricolage";
+      src: url("../../../../fonts/BricolageGrotesque_24pt_Condensed-SemiBold.ttf");
+      font-weight: 600;
+    }
+    @font-face {
+      font-family: "Bricolage";
+      src: url("../../../../fonts/BricolageGrotesque_24pt_Condensed-ExtraLight.ttf");
+      font-weight: 300;
+    }
+    text { font-family: "Bricolage", sans-serif; }
+  </style>
+
+  <rect width="1080" height="1350" fill="#F1E8D8"/>
+  <rect x="42" y="42" width="996" height="1266" rx="24" fill="none" stroke="#9D8B75" stroke-opacity=".55" stroke-width="2"/>
+
+  <image href="../../../../assets/logo.svg" x="70" y="68" width="182" height="32"/>
+  <path d="M70 132H1010" stroke="#9D8B75" stroke-opacity=".55"/>
+
+  <text x="70" y="276" font-size="132" font-weight="800" letter-spacing="-4" fill="#1A1410">Juli:</text>
+  <text x="70" y="386" font-size="82" font-weight="800" letter-spacing="-2" fill="#1A1410">Feliz día de la</text>
+  <text x="70" y="494" font-size="112" font-weight="800" letter-spacing="-4" fill="#D24322">nutricionista.</text>
+
+  <g transform="translate(70 570)">
+    <rect width="940" height="250" rx="18" fill="#E6DCC6"/>
+    <text x="40" y="108" font-size="37" font-weight="300" fill="#1A1410">Ema y nextlevel. quieren hacerte llegar</text>
+    <text x="40" y="156" font-size="37" font-weight="300" fill="#1A1410">este presente en un día tan especial.</text>
+  </g>
+
+  <g transform="translate(70 870)">
+    <rect width="940" height="356" rx="18" fill="#1A1410"/>
+    <text x="42" y="94" font-size="37" font-weight="300" fill="#F1E8D8" fill-opacity=".78">Para dar el próximo paso y ser</text>
+    <text x="42" y="256" font-size="132" font-weight="800" letter-spacing="-5" fill="#F1E8D8">Nutri <tspan fill="#D24322">2.0.</tspan></text>
+
+  </g>
+</svg>

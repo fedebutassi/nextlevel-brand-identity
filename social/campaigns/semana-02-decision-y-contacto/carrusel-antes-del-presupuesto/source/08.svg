@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <style>
+    @font-face{font-family:Bricolage;src:url('../../../../../fonts/BricolageGrotesque_24pt_Condensed-Bold.ttf');font-weight:800}
+    @font-face{font-family:Bricolage;src:url('../../../../../fonts/BricolageGrotesque_24pt_Condensed-SemiBold.ttf');font-weight:600}
+    @font-face{font-family:Bricolage;src:url('../../../../../fonts/BricolageGrotesque_24pt_Condensed-ExtraLight.ttf');font-weight:300}
+  </style>
+  <rect width="1080" height="1350" fill="#E6DCC6"/>
+  <rect x="82" y="198" width="952" height="980" rx="4" fill="#D24322"/>
+  <rect x="64" y="180" width="952" height="980" rx="4" fill="#FFF9EF" stroke="#1A1410" stroke-width="3"/>
+  <rect x="848" y="156" width="132" height="58" fill="#E6DCC6" stroke="#1A1410" stroke-width="2" transform="rotate(3 914 185)"/>
+  <image href="../../../../../assets/logo.svg" x="108" y="222" width="164" height="28"/>
+  <text x="972" y="250" text-anchor="end" font-family="Bricolage" font-size="16" font-weight="600" letter-spacing="2" fill="#9D8B75">08 / 08</text>
+  <path d="M108 288H972" stroke="#9D8B75" stroke-dasharray="4 8"/>
+  <text x="108" y="344" font-family="Bricolage" font-size="16" font-weight="600" letter-spacing="3" fill="#D24322">SIGUIENTE PASO</text>
+  <text x="108" y="465" font-family="Bricolage" font-size="82" font-weight="800" letter-spacing="-3" fill="#1A1410">Una idea clara.</text>
+  <text x="108" y="570" font-family="Bricolage" font-size="82" font-weight="800" letter-spacing="-3" fill="#1A1410">Un alcance real.</text>
+  <text x="108" y="725" font-family="Bricolage" font-size="29" font-weight="300" fill="#6B5E4F">Nosotros te ayudamos a ordenar el resto.</text>
+  <path d="M108 790H972" stroke="#9D8B75"/>
+  <rect x="108" y="900" width="610" height="94" fill="#1A1410"/>
+  <text x="413" y="962" text-anchor="middle" font-family="Bricolage" font-size="28" font-weight="600" fill="#F1E8D8">ESCRIBINOS “WEB” POR DM →</text>
+  <text x="108" y="1070" font-family="Bricolage" font-size="20" font-weight="600" fill="#D24322">LISTO PARA CONVERSAR ✓</text>
+  <text x="64" y="1310" font-family="Bricolage" font-size="15" font-weight="600" letter-spacing="2" fill="#9D8B75">ANTES DEL PRESUPUESTO</text>
+</svg>

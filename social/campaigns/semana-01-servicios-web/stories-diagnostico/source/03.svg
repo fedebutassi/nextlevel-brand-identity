@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+<style>
+  @font-face{font-family:Bricolage;src:url('../../../../../fonts/BricolageGrotesque_24pt_Condensed-Bold.ttf');font-weight:800}
+  @font-face{font-family:Bricolage;src:url('../../../../../fonts/BricolageGrotesque_24pt_Condensed-SemiBold.ttf');font-weight:600}
+  @font-face{font-family:Bricolage;src:url('../../../../../fonts/BricolageGrotesque_24pt_Condensed-ExtraLight.ttf');font-weight:300}
+</style><rect width="1080" height="1920" fill="#F1E8D8"/>
+    <image href="../../../../../assets/logo.svg" x="72" y="172" width="190" height="33"/>
+    <text x="1008" y="198" text-anchor="end" font-family="Bricolage" font-size="18" font-weight="600" letter-spacing="3" fill="#9D8B75">03 / 03</text>
+    <path d="M72 230H1008" stroke="#9D8B75" opacity=".5"/>
+    
+    <text x="72" y="420" font-family="Bricolage" font-size="20" font-weight="600" letter-spacing="4" fill="#D24322">PRÓXIMO TEMA</text>
+    <text x="72" y="590" text-anchor="start" font-family="Bricolage" font-size="92" font-weight="800" letter-spacing="-3" fill="#1A1410">Esta semana</text><text x="72" y="698" text-anchor="start" font-family="Bricolage" font-size="92" font-weight="800" letter-spacing="-3" fill="#1A1410">vamos a mostrar</text><text x="72" y="806" text-anchor="start" font-family="Bricolage" font-size="92" font-weight="800" letter-spacing="-3" fill="#1A1410">qué puede resolver</text><text x="72" y="914" text-anchor="start" font-family="Bricolage" font-size="92" font-weight="800" letter-spacing="-3" fill="#D24322">una landing.</text>
+    <g transform="translate(72 1130)"><rect width="880" height="250" rx="20" fill="#E6DCC6"/><rect x="36" y="38" width="500" height="28" fill="#1A1410"/><rect x="36" y="92" width="360" height="18" fill="#9D8B75"/><rect x="36" y="150" width="235" height="65" rx="33" fill="#D24322"/><path d="M176 182H231M209 164L231 182 209 200" fill="none" stroke="#F1E8D8" stroke-width="6"/></g>
+    <text x="72" y="1730" font-family="Bricolage" font-size="16" font-weight="600" letter-spacing="3" fill="#9D8B75">ESTA SEMANA · LANDINGS</text>
+    <path d="M72 1760H1008" stroke="#9D8B75" opacity=".35"/>
+    <text x="1008" y="1810" text-anchor="end" font-family="Bricolage" font-size="15" font-weight="600" letter-spacing="2" fill="#9D8B75">@NEXTLVL.OK</text></svg>

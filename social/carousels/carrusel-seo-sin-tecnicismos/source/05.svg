@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <style>
+    @font-face{font-family:Bricolage;src:url('../../../../fonts/BricolageGrotesque_24pt_Condensed-Bold.ttf');font-weight:800}
+    @font-face{font-family:Bricolage;src:url('../../../../fonts/BricolageGrotesque_24pt_Condensed-SemiBold.ttf');font-weight:600}
+    @font-face{font-family:Bricolage;src:url('../../../../fonts/BricolageGrotesque_24pt_Condensed-ExtraLight.ttf');font-weight:300}
+  </style>
+  <rect width="1080" height="1350" fill="#F1E8D8"/>
+  <image href="../../../../assets/logo.svg" x="64" y="48" width="164" height="28"/>
+  <g font-family="Bricolage" font-size="16" font-weight="600" letter-spacing="2" fill="#6B5E4F">
+    <text x="1016" y="75" text-anchor="end">05 / 07</text>
+    <path d="M64 96H1016M64 1294H1016" stroke="#6B5E4F" stroke-width="1.5" opacity=".55"/>
+    <text x="64" y="1330">NEXTLVL.COM.AR</text>
+    <text x="1016" y="1330" text-anchor="end">SEO SIN TECNICISMOS</text>
+  </g>
+  <g font-family="Bricolage" font-size="124" font-weight="800" letter-spacing="-5"><text x="64" y="560" fill="#1A1410">04. Una estructura</text><text x="64" y="702" fill="#D24322">fácil de recorrer.</text></g>
+  <text x="64" y="910" font-family="Bricolage" font-size="34" font-weight="300" fill="#6B5E4F"><tspan x="64" dy="0">Menú, enlaces y secciones tienen que ayudar a encontrar</tspan><tspan x="64" dy="42">información.</tspan></text>
+  
+  
+</svg>

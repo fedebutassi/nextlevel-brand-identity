@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+    <style>
+  @font-face{font-family:Bricolage;src:url('../../../../fonts/BricolageGrotesque_24pt_Condensed-Bold.ttf');font-weight:800}
+  @font-face{font-family:Bricolage;src:url('../../../../fonts/BricolageGrotesque_24pt_Condensed-SemiBold.ttf');font-weight:600}
+  @font-face{font-family:Bricolage;src:url('../../../../fonts/BricolageGrotesque_24pt_Condensed-ExtraLight.ttf');font-weight:300}
+</style>
+    <rect width="1080" height="1350" fill="#F1E8D8"/>
+    <image href="../../../../assets/logo.svg" x="64" y="48" width="164" height="28"/>
+    <g font-family="Bricolage" font-size="16" font-weight="600" letter-spacing="2" fill="#9D8B75">
+      <text x="1016" y="75" text-anchor="end">01 / 08</text>
+      <path d="M64 96H1016M64 1294H1016" stroke="#9D8B75" stroke-width="1.5" opacity=".55"/>
+      <text x="64" y="1330">NEXTLVL.COM.AR</text>
+      <text x="1016" y="1330" text-anchor="end">UNA WEB A MEDIDA</text>
+    </g>
+    
+    <g fill="#1A1410"><text x="64" y="360" font-family="Bricolage" font-size="108" font-weight="800" letter-spacing="-4">Tu web no empieza</text><text x="64" y="478" font-family="Bricolage" font-size="108" font-weight="800" letter-spacing="-4">por el diseño.</text>
+    <text x="64" y="650" font-family="Bricolage" font-size="40" font-weight="600" fill="#D24322">Empieza por seis decisiones conectadas.</text>
+    <path d="M80 957H1000" stroke="#9D8B75" stroke-width="2" stroke-dasharray="5 12" opacity=".6"/>
+    <g transform="translate(64 1010)">
+      <rect width="143" height="54" rx="27" fill="none" stroke="#9D8B75" stroke-width="1.5" opacity="0.7"/>
+      <text x="71.5" y="34" text-anchor="middle" font-family="Bricolage" font-size="14" font-weight="600" letter-spacing="1.2" fill="#1A1410">01 · OBJETIVO</text>
+    </g><g transform="translate(223 1010)">
+      <rect width="143" height="54" rx="27" fill="none" stroke="#9D8B75" stroke-width="1.5" opacity="0.7"/>
+      <text x="71.5" y="34" text-anchor="middle" font-family="Bricolage" font-size="14" font-weight="600" letter-spacing="1.2" fill="#1A1410">02 · MENSAJE</text>
+    </g><g transform="translate(382 1010)">
+      <rect width="143" height="54" rx="27" fill="none" stroke="#9D8B75" stroke-width="1.5" opacity="0.7"/>
+      <text x="71.5" y="34" text-anchor="middle" font-family="Bricolage" font-size="14" font-weight="600" letter-spacing="1.2" fill="#1A1410">03 · IDENTIDAD</text>
+    </g><g transform="translate(541 1010)">
+      <rect width="143" height="54" rx="27" fill="none" stroke="#9D8B75" stroke-width="1.5" opacity="0.7"/>
+      <text x="71.5" y="34" text-anchor="middle" font-family="Bricolage" font-size="14" font-weight="600" letter-spacing="1.2" fill="#1A1410">04 · RECORRIDO</text>
+    </g><g transform="translate(700 1010)">
+      <rect width="143" height="54" rx="27" fill="none" stroke="#9D8B75" stroke-width="1.5" opacity="0.7"/>
+      <text x="71.5" y="34" text-anchor="middle" font-family="Bricolage" font-size="14" font-weight="600" letter-spacing="1.2" fill="#1A1410">05 · CÓDIGO</text>
+    </g><g transform="translate(859 1010)">
+      <rect width="143" height="54" rx="27" fill="none" stroke="#9D8B75" stroke-width="1.5" opacity="0.7"/>
+      <text x="71.5" y="34" text-anchor="middle" font-family="Bricolage" font-size="14" font-weight="600" letter-spacing="1.2" fill="#1A1410">06 · MEJORA</text>
+    </g>
+    <text x="64" y="1168" font-family="Bricolage" font-size="18" font-weight="600" letter-spacing="3" fill="#9D8B75">↳ DESLIZÁ →</text></g>
+  </svg>

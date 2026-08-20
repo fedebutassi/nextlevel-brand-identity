@@ -42,6 +42,14 @@ Intentionally positioning against agency-speak. Small, lean, personal.
 
 ## Key Phrases & Copy Patterns
 
+### Official Brand Lines
+
+- **"Desarrollo web a medida."** — service proposition; use in portfolio, service, and conversion content.
+- **"Llevamos tu marca al siguiente nivel."** — primary brand promise; use in institutional and closing messages.
+- **"¿Querés llevar tu negocio al siguiente nivel?"** — conversational CTA; use to open or close commercial content.
+
+Use these lines deliberately, not all together in every publication. Preserve Argentine voseo and the accent in **"Querés"**.
+
 ### Hero / First Impression
 - Lead with the promise: **"software que lleva tu marca al siguiente nivel."**
 - Follow with who you are: **"NextLevel es un estudio de software independiente."**
@@ -69,6 +77,7 @@ Intentionally positioning against agency-speak. Small, lean, personal.
 | Primary (hero) | "Empezar un proyecto →" |
 | Secondary (hero) | "Ver servicios ↓" |
 | Navbar | "Hablemos" |
+| Instagram — conversión comercial | "Escribinos WEB por DM →" |
 | Contact | "Enviar →" |
 | WhatsApp float | "Hablamos?" |
 | Gallery | "Ver todos los proyectos →" |

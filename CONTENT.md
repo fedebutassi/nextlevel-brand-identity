@@ -193,7 +193,7 @@ A terracotta ring draws itself center-screen, then shrinks into the dot of the "
 
 **Position**: Bottom-right, fixed
 
-**Link**: wa.me/543571327923
+**Link**: https://wa.me/543571327923?text=Hola%2C%20vi%20el%20contenido%20de%20nextlevel.%20en%20Instagram%20y%20quiero%20consultar%20por%20una%20web.
 
 ---
 

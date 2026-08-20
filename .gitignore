@@ -1,0 +1,13 @@
+.DS_Store
+
+# Dependencias instaladas
+node_modules/
+
+# Cachés y frames regenerables
+**/.cache/
+**/frames/
+
+# Temporales locales de render y revisión
+/tmp/
+*.tmp
+*.temp

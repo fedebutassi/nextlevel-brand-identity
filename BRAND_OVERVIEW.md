@@ -68,4 +68,8 @@
 | `VOICE_AND_TONE.md` | Brand voice, messaging, and copy guidelines |
 | `VISUAL_STYLE.md` | Design tokens, spacing, shadows, animations |
 | `CONTENT.md` | All brand copy organized by section |
+| `SOCIAL_CONTENT.md` | Social formats, composition, reels, carousels, and CTA rules |
+| `CLAIMS_POLICY.md` | Verification policy for statistics and quantitative claims |
 | `assets/` | Logo (SVG+PNG), favicon (SVG), OG image |
+| `fonts/` | Approved static Bricolage Grotesque files for social production |
+| `social/` | Reusable templates, editable sources, and approved exports |

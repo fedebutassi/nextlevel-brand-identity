@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<style>
+  @font-face{font-family:Bricolage;src:url('../../../../../fonts/BricolageGrotesque_24pt_Condensed-Bold.ttf');font-weight:800}
+  @font-face{font-family:Bricolage;src:url('../../../../../fonts/BricolageGrotesque_24pt_Condensed-SemiBold.ttf');font-weight:600}
+  @font-face{font-family:Bricolage;src:url('../../../../../fonts/BricolageGrotesque_24pt_Condensed-ExtraLight.ttf');font-weight:300}
+</style><rect width="1080" height="1350" fill="#F1E8D8"/>
+    <image href="../../../../../assets/logo.svg" x="64" y="52" width="164" height="28"/>
+    <text x="1016" y="76" text-anchor="end" font-family="Bricolage" font-size="16" font-weight="600" letter-spacing="2" fill="#9D8B75">07 / 08</text>
+    <path d="M64 104H1016" stroke="#9D8B75" opacity=".55"/>
+    
+    <text x="64" y="205" font-family="Bricolage" font-size="17" font-weight="600" letter-spacing="3" fill="#D24322">06 · PLAZO Y REVISIONES</text>
+    <text x="64" y="370" text-anchor="start" font-family="Bricolage" font-size="88" font-weight="800" letter-spacing="-3" fill="#1A1410">Hasta tres semanas.</text><text x="64" y="482" text-anchor="start" font-family="Bricolage" font-size="88" font-weight="800" letter-spacing="-3" fill="#D24322">Dos rondas de revisión.</text>
+    <text x="64" y="650" font-family="Bricolage" font-size="29" font-weight="300" fill="#6B5E4F">El plazo comienza con contenidos, accesos y anticipo listos.</text>
+    <g transform="translate(64 790)">
+      <path d="M36 92H885" stroke="#1A1410" stroke-width="6"/>
+      <g transform="translate(0 0)"><circle cx="36" cy="92" r="30" fill="#1A1410"/><text x="36" y="99" text-anchor="middle" font-family="Bricolage" font-size="18" font-weight="800" fill="#F1E8D8">1</text><text x="36" y="158" font-family="Bricolage" font-size="20" font-weight="600" letter-spacing="2" fill="#9D8B75">SEMANA 01</text></g><g transform="translate(310 0)"><circle cx="36" cy="92" r="30" fill="#1A1410"/><text x="36" y="99" text-anchor="middle" font-family="Bricolage" font-size="18" font-weight="800" fill="#F1E8D8">2</text><text x="36" y="158" font-family="Bricolage" font-size="20" font-weight="600" letter-spacing="2" fill="#9D8B75">SEMANA 02</text></g><g transform="translate(620 0)"><circle cx="36" cy="92" r="30" fill="#D24322"/><text x="36" y="99" text-anchor="middle" font-family="Bricolage" font-size="18" font-weight="800" fill="#F1E8D8">3</text><text x="36" y="158" font-family="Bricolage" font-size="20" font-weight="600" letter-spacing="2" fill="#9D8B75">SEMANA 03</text></g>
+      <g transform="translate(0 235)"><rect width="435" height="90" rx="45" fill="#E6DCC6" stroke="#1A1410" stroke-width="3"/><text x="217" y="57" text-anchor="middle" font-family="Bricolage" font-size="28" font-weight="800" fill="#1A1410">REVISIÓN 01</text><rect x="467" width="435" height="90" rx="45" fill="#D24322"/><text x="684" y="57" text-anchor="middle" font-family="Bricolage" font-size="28" font-weight="800" fill="#F1E8D8">REVISIÓN 02</text></g>
+    </g>
+    <path d="M64 1292H1016" stroke="#9D8B75" opacity=".45"/>
+    <text x="64" y="1324" font-family="Bricolage" font-size="15" font-weight="600" letter-spacing="2" fill="#9D8B75">LANDING · SERVICIO</text>
+    <text x="1016" y="1324" text-anchor="end" font-family="Bricolage" font-size="15" font-weight="600" letter-spacing="2" fill="#9D8B75">NEXTLVL.OK</text></svg>

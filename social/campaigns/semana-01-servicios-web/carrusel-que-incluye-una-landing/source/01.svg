@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<style>
+  @font-face{font-family:Bricolage;src:url('../../../../../fonts/BricolageGrotesque_24pt_Condensed-Bold.ttf');font-weight:800}
+  @font-face{font-family:Bricolage;src:url('../../../../../fonts/BricolageGrotesque_24pt_Condensed-SemiBold.ttf');font-weight:600}
+  @font-face{font-family:Bricolage;src:url('../../../../../fonts/BricolageGrotesque_24pt_Condensed-ExtraLight.ttf');font-weight:300}
+</style><rect width="1080" height="1350" fill="#F1E8D8"/>
+    <image href="../../../../../assets/logo.svg" x="64" y="52" width="164" height="28"/>
+    <text x="1016" y="76" text-anchor="end" font-family="Bricolage" font-size="16" font-weight="600" letter-spacing="2" fill="#9D8B75">01 / 08</text>
+    <path d="M64 104H1016" stroke="#9D8B75" opacity=".55"/>
+    
+    <text x="64" y="198" font-family="Bricolage" font-size="17" font-weight="600" letter-spacing="3" fill="#D24322">UNA PÁGINA · UN RECORRIDO</text>
+    <text x="64" y="390" text-anchor="start" font-family="Bricolage" font-size="94" font-weight="800" letter-spacing="-3" fill="#1A1410">¿Qué incluye</text><text x="64" y="488" text-anchor="start" font-family="Bricolage" font-size="94" font-weight="800" letter-spacing="-3" fill="#D24322">una landing</text><text x="64" y="586" text-anchor="start" font-family="Bricolage" font-size="94" font-weight="800" letter-spacing="-3" fill="#1A1410">bien pensada?</text>
+    <text x="64" y="740" font-family="Bricolage" font-size="30" font-weight="300" fill="#6B5E4F">Una estructura enfocada en una acción principal.</text>
+    <g transform="translate(665 226)">
+      <rect width="300" height="850" rx="12" fill="#E6DCC6" stroke="#1A1410" stroke-width="4"/>
+      <rect x="28" y="35" width="122" height="18" fill="#1A1410"/><circle cx="159" cy="44" r="8" fill="#D24322"/>
+      <rect x="28" y="102" width="244" height="195" fill="#1A1410"/>
+      <rect x="52" y="142" width="180" height="24" fill="#F1E8D8"/><rect x="52" y="180" width="120" height="18" fill="#D24322"/>
+      <rect x="28" y="332" width="244" height="82" fill="none" stroke="#1A1410" stroke-width="3"/>
+      <rect x="28" y="444" width="112" height="160" fill="#F1E8D8" stroke="#1A1410" stroke-width="3"/>
+      <rect x="160" y="444" width="112" height="160" fill="#F1E8D8" stroke="#1A1410" stroke-width="3"/>
+      <rect x="28" y="636" width="244" height="92" rx="46" fill="#D24322"/>
+      <path d="M82 680H218M194 656L218 680 194 704" fill="none" stroke="#F1E8D8" stroke-width="6"/>
+      <rect x="28" y="760" width="244" height="50" fill="none" stroke="#9D8B75" stroke-width="3"/>
+    </g>
+    <text x="64" y="1132" font-family="Bricolage" font-size="18" font-weight="600" letter-spacing="3" fill="#9D8B75">DESLIZÁ PARA VER EL ALCANCE →</text>
+    <path d="M64 1292H1016" stroke="#9D8B75" opacity=".45"/>
+    <text x="64" y="1324" font-family="Bricolage" font-size="15" font-weight="600" letter-spacing="2" fill="#9D8B75">LANDING · SERVICIO</text>
+    <text x="1016" y="1324" text-anchor="end" font-family="Bricolage" font-size="15" font-weight="600" letter-spacing="2" fill="#9D8B75">NEXTLVL.OK</text></svg>

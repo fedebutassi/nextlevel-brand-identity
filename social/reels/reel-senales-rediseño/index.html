@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <style>
+    @font-face{font-family:Bricolage;src:url('../../../fonts/BricolageGrotesque_24pt_Condensed-Bold.ttf');font-weight:800}
+    @font-face{font-family:Bricolage;src:url('../../../fonts/BricolageGrotesque_24pt_Condensed-SemiBold.ttf');font-weight:600}
+    @font-face{font-family:Bricolage;src:url('../../../fonts/BricolageGrotesque_24pt_Condensed-ExtraLight.ttf');font-weight:300}
+    :root{--paper:#F1E8D8;--ink:#1A1410;--accent:#D24322;--sand:#9D8B75}
+    *{box-sizing:border-box}
+    html,body{margin:0;width:1080px;height:1920px;overflow:hidden;background:var(--paper)}
+    body{font-family:Bricolage,sans-serif;color:var(--ink)}
+    .scene{position:absolute;inset:0;display:flex;flex-direction:column;padding:150px 80px 210px;opacity:0;overflow:hidden}
+    .paper{background:var(--paper);color:var(--ink)}
+    .dark{background:var(--ink);color:var(--paper)}
+    .brand{position:absolute;top:72px;left:80px;width:205px;height:auto}
+    .dark .brand{content:url('../../../assets/logo-dark.svg')}
+    .counter{position:absolute;top:82px;right:80px;font-family:ui-monospace,monospace;font-size:20px;letter-spacing:4px;color:var(--sand)}
+    .content{margin:auto 0;max-width:920px;transform-origin:left center}
+    .hook{font-size:122px;line-height:.92;letter-spacing:-4px;font-weight:800}
+    .hook .accent{display:block;color:var(--accent);font-style:italic;margin-top:25px}
+    .number{font-size:390px;line-height:.72;letter-spacing:-20px;font-weight:800;color:var(--accent);margin-bottom:105px}
+    .title{font-size:136px;line-height:.9;letter-spacing:-4px;font-weight:800;max-width:880px}
+    .support{font-size:46px;line-height:1.12;font-weight:300;color:var(--sand);margin-top:58px;max-width:820px}
+    .dark .support{color:rgba(241,232,216,.7)}
+    .cta-title{font-size:126px;line-height:.9;letter-spacing:-4px;font-weight:800}
+    .cta-title em{display:block;color:var(--accent);font-style:italic}
+    .button{display:inline-flex;margin-top:80px;padding:28px 50px;border-radius:999px;background:var(--paper);color:var(--ink);font-size:34px;font-weight:600;letter-spacing:1px}
+    .url{margin-top:34px;font-family:ui-monospace,monospace;font-size:22px;letter-spacing:4px;color:var(--sand)}
+    .progress{position:absolute;left:80px;right:80px;bottom:150px;height:5px;background:rgba(157,139,117,.22);overflow:hidden}
+    .progress>span{display:block;width:0;height:100%;background:var(--accent)}
+    .dot{position:absolute;width:380px;height:380px;border:70px solid var(--accent);border-radius:50%;right:-150px;bottom:260px;opacity:.08}
+  </style>
+</head>
+<body>
+  <section class="scene paper" data-start="0" data-end="2.6">
+    <img class="brand" src="../../../assets/logo.svg"><span class="counter">01 / 07</span><i class="dot"></i>
+    <div class="content"><div class="hook">Tu web no necesita verse nueva.<span class="accent">Necesita funcionar mejor.</span></div></div>
+    <div class="progress"><span></span></div>
+  </section>
+  <section class="scene dark" data-start="2.6" data-end="4.8">
+    <img class="brand" src="../../../assets/logo.svg"><span class="counter">02 / 07</span>
+    <div class="content"><div class="number">01</div><div class="title">Tarda en<br>cargar.</div></div><div class="progress"><span></span></div>
+  </section>
+  <section class="scene paper" data-start="4.8" data-end="7">
+    <img class="brand" src="../../../assets/logo.svg"><span class="counter">03 / 07</span>
+    <div class="content"><div class="number">02</div><div class="title">Se rompe<br>en el celu.</div></div><div class="progress"><span></span></div>
+  </section>
+  <section class="scene dark" data-start="7" data-end="9.2">
+    <img class="brand" src="../../../assets/logo.svg"><span class="counter">04 / 07</span>
+    <div class="content"><div class="number">03</div><div class="title">Cuesta<br>encontrarte.</div></div><div class="progress"><span></span></div>
+  </section>
+  <section class="scene paper" data-start="9.2" data-end="11.4">
+    <img class="brand" src="../../../assets/logo.svg"><span class="counter">05 / 07</span>
+    <div class="content"><div class="number">04</div><div class="title">Se siente<br>vieja.</div></div><div class="progress"><span></span></div>
+  </section>
+  <section class="scene dark" data-start="11.4" data-end="13.6">
+    <img class="brand" src="../../../assets/logo.svg"><span class="counter">06 / 07</span>
+    <div class="content"><div class="number">05</div><div class="title">No guía al<br>contacto.</div></div><div class="progress"><span></span></div>
+  </section>
+  <section class="scene dark" data-start="13.6" data-end="18">
+    <img class="brand" src="../../../assets/logo.svg"><span class="counter">07 / 07</span><i class="dot"></i>
+    <div class="content"><div class="cta-title">¿Reconociste alguna?<em>Hablemos.</em></div><div class="support">La rediseñamos para que trabaje mejor para tu negocio.</div><div class="button">ESCRIBINOS A @NEXTLVL.OK</div><div class="url">NEXTLVL.COM.AR</div></div>
+    <div class="progress"><span></span></div>
+  </section>
+  <script>
+    const clamp=(v,min,max)=>Math.min(max,Math.max(min,v));
+    const ease=v=>1-Math.pow(1-v,3);
+    window.renderAt=ms=>{
+      const t=ms/1000;
+      document.querySelectorAll('.scene').forEach(scene=>{
+        const start=Number(scene.dataset.start),end=Number(scene.dataset.end);
+        const enter=clamp((t-start)/.38,0,1),exit=end===18?1:clamp((end-t)/.3,0,1);
+        const visible=Math.min(enter,exit);
+        scene.style.opacity=visible;
+        scene.style.zIndex=t>=start&&t<end?'2':'1';
+        const content=scene.querySelector('.content');
+        content.style.transform=`translateY(${(1-ease(enter))*70}px) scale(${.96+.04*ease(enter)})`;
+        const number=scene.querySelector('.number');
+        if(number) number.style.transform=`scale(${.82+.18*ease(enter)})`;
+        const progress=scene.querySelector('.progress span');
+        progress.style.width=`${clamp((t-start)/(end-start),0,1)*100}%`;
+      });
+    };
+    window.renderAt(0);
+  </script>
+</body>
+</html>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<style>
+  @font-face{font-family:Bricolage;src:url('../../../../../fonts/BricolageGrotesque_24pt_Condensed-Bold.ttf');font-weight:800}
+  @font-face{font-family:Bricolage;src:url('../../../../../fonts/BricolageGrotesque_24pt_Condensed-SemiBold.ttf');font-weight:600}
+  @font-face{font-family:Bricolage;src:url('../../../../../fonts/BricolageGrotesque_24pt_Condensed-ExtraLight.ttf');font-weight:300}
+</style><rect width="1080" height="1350" fill="#F1E8D8"/>
+    <image href="../../../../../assets/logo.svg" x="64" y="52" width="164" height="28"/>
+    <text x="1016" y="76" text-anchor="end" font-family="Bricolage" font-size="16" font-weight="600" letter-spacing="2" fill="#9D8B75">06 / 08</text>
+    <path d="M64 104H1016" stroke="#9D8B75" opacity=".55"/>
+    
+    <text x="64" y="205" font-family="Bricolage" font-size="17" font-weight="600" letter-spacing="3" fill="#D24322">05 · PRODUCCIÓN</text>
+    <text x="64" y="380" text-anchor="start" font-family="Bricolage" font-size="110" font-weight="800" letter-spacing="-3" fill="#1A1410">Diseño</text><text x="64" y="492" text-anchor="start" font-family="Bricolage" font-size="110" font-weight="800" letter-spacing="-3" fill="#D24322">y desarrollo.</text>
+    <text x="64" y="655" font-family="Bricolage" font-size="31" font-weight="300" fill="#6B5E4F">Responsive, formulario y configuración acordada.</text>
+    <g transform="translate(64 790)">
+      <rect width="450" height="355" rx="18" fill="#E6DCC6" stroke="#1A1410" stroke-width="4"/>
+      <text x="35" y="60" font-family="Bricolage" font-size="17" font-weight="600" letter-spacing="3" fill="#9D8B75">DISEÑO</text>
+      <rect x="35" y="98" width="380" height="65" fill="#1A1410"/><rect x="35" y="190" width="172" height="115" fill="#F1E8D8" stroke="#1A1410" stroke-width="3"/><rect x="243" y="190" width="172" height="115" fill="#D24322"/>
+      <rect x="502" width="450" height="355" rx="18" fill="#1A1410"/>
+      <text x="537" y="60" font-family="Bricolage" font-size="17" font-weight="600" letter-spacing="3" fill="#C9B99F">DESARROLLO</text>
+      <text x="537" y="140" font-family="Bricolage" font-size="29" font-weight="600" fill="#F1E8D8">&lt;main&gt;</text><text x="585" y="196" font-family="Bricolage" font-size="29" font-weight="600" fill="#D24322">&lt;form /&gt;</text><text x="537" y="252" font-family="Bricolage" font-size="29" font-weight="600" fill="#F1E8D8">&lt;/main&gt;</text>
+    </g>
+    <path d="M64 1292H1016" stroke="#9D8B75" opacity=".45"/>
+    <text x="64" y="1324" font-family="Bricolage" font-size="15" font-weight="600" letter-spacing="2" fill="#9D8B75">LANDING · SERVICIO</text>
+    <text x="1016" y="1324" text-anchor="end" font-family="Bricolage" font-size="15" font-weight="600" letter-spacing="2" fill="#9D8B75">NEXTLVL.OK</text></svg>
