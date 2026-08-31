@@ -65,15 +65,15 @@ Mismos horarios que semanas 01–03 para mantener la comparación. Instagram sol
 
 ### Caption
 
-Hablamos mucho de cómo trabajamos. Hoy preferimos mostrarlo.
+Hablamos mucho de cómo trabajamos. Hoy preferimos mostrarlo 👀
 
-Esta es una web que diseñamos y desarrollamos para una empresa familiar de Córdoba que necesitaba centralizar consultas y facilitar pedidos de cotización. Con todas las decisiones a la vista: una home que dice qué hace el negocio, secciones que responden lo que antes se preguntaba por teléfono y un diseño pensado para el celular.
+💻 Esta es una web que diseñamos y desarrollamos para una empresa familiar de Córdoba que necesitaba centralizar consultas y facilitar pedidos de cotización. Con todas las decisiones a la vista: una home que dice qué hace el negocio, secciones que responden lo que antes se preguntaba por teléfono y un diseño pensado para el celular 📱
 
-Desarrollo web a medida.
+✏️ Desarrollo web a medida.
 
-Si querés ver cómo sería la tuya, escribinos `WEB` por DM.
+Si querés ver cómo sería la tuya, escribinos WEB por DM 💬
 
-`#DesarrolloWeb #DiseñoWebAMedida #SitioWeb #Pymes #Córdoba`
+#DesarrolloWeb #DiseñoWebAMedida #SitioWeb #Pymes #Córdoba
 
 ---
 
@@ -119,15 +119,15 @@ Si querés ver cómo sería la tuya, escribinos `WEB` por DM.
 
 ### Caption
 
-Una cosa es decir "hacemos webs a medida". Otra es mostrar una, decisión por decisión.
+Una cosa es decir "hacemos webs a medida". Otra es mostrar una, decisión por decisión 🧩
 
-Este proyecto es real: una empresa familiar de Córdoba que necesitaba centralizar consultas y facilitar pedidos de cotización. Acá está todo lo que importa — la estructura, la home, el camino de la consulta y el control que quedó en manos del cliente.
+🏠 Este proyecto es real: una empresa familiar de Córdoba que necesitaba centralizar consultas y facilitar pedidos de cotización. Acá está todo lo que importa — la estructura, la home, el camino de la consulta y el control que quedó en manos del cliente ✅
 
-Todo empezó como empiezan todos nuestros proyectos: con una charla y una propuesta por escrito.
+🤝 Todo empezó como empiezan todos nuestros proyectos: con una charla y una propuesta por escrito.
 
-Escribinos `WEB` por DM.
+Escribinos WEB por DM 💬
 
-`#DesarrolloWeb #DiseñoWebAMedida #Portfolio #Pymes #Córdoba`
+#DesarrolloWeb #DiseñoWebAMedida #Portfolio #Pymes #Córdoba
 
 ---
 
@@ -172,13 +172,13 @@ Escribinos `WEB` por DM.
 
 ### Caption
 
-Cualquiera puede decir “a medida”. Nosotros preferimos mostrarlo con dos proyectos reales.
+Cualquiera puede decir "a medida". Nosotros preferimos mostrarlo con dos proyectos reales 👇
 
-Una empresa que cotiza a pedido y un comercio con catálogo de productos. Dos problemas distintos, dos estructuras distintas, el mismo criterio: la web sale del negocio, no de una plantilla.
+🏢 Una empresa que cotiza a pedido y 🛒 un comercio con catálogo de productos. Dos problemas distintos, dos estructuras distintas, el mismo criterio: la web sale del negocio, no de una plantilla.
 
-Si querés saber qué estructura necesitaría el tuyo, escribinos `WEB` por DM. Te respondemos con una mirada concreta sobre tu caso.
+Si querés saber qué estructura necesitaría el tuyo, escribinos WEB por DM 💬 Te respondemos con una mirada concreta sobre tu caso.
 
-`#DesarrolloWeb #DiseñoWebAMedida #Portfolio #Pymes #Córdoba`
+#DesarrolloWeb #DiseñoWebAMedida #Portfolio #Pymes #Córdoba
 
 ---
 
