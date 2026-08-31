@@ -97,10 +97,111 @@ Meta muestra 2 interacciones pero el desglose visible explica 1 (1 like); la seg
 - **El algoritmo no distribuyó esta pieza:** 29 views desde `Other` contra 175 del carrusel del 21/08; el mix se invirtió (84,8% seguidores contra 33,2%). El alcance a no seguidores del carrusel de semana 02 no se repitió; la distribución del feed es volátil y no es atribuible al formato por sí solo.
 - **Conversión:** 0 en toda la cadena.
 
-## Estado del experimento y pendientes
+### Actualización — corte 31/08/2026 (≈5 días)
 
-- **Resultado parcial del experimento de mecánicas nativas:** la encuesta del martes produjo 1 voto sin valor comercial. Queda pendiente el sticker de pregunta del jueves 27/08 (las respuestas llegan como DM).
-- **DM comerciales de la semana al corte del 27/08: 0.**
-- Pendiente: corte de 24 h de las stories del jueves 27/08, corte de 24 h del carrusel del viernes 28/08 y cierre semanal el lunes 31/08 con comparación contra semanas 01–02.
+| Métrica | 27/08 (24 h) | 31/08 (≈5 días) |
+|---|---:|---:|
+| Views | 79 | 155 |
+| Views de seguidores | 84,8% | 70,3% |
+| Views de no seguidores | 15,2% | 29,7% |
+| Origen: Home | 50 | 116 |
+| Origen: Other | 29 | 36 |
+| Origen: Perfil | — | 3 |
+| Espectadores (viewers) | 35 | 63 |
+| Interacciones | 2 | 4 |
+| Likes | 1 | 2 |
+| Cuentas que interactuaron | 1 | 2 |
+| Visitas al perfil | 0 | 0 |
+| Clics en enlace | 0 | 0 |
+| Seguidores nuevos | 0 | 0 |
+| DM atribuibles | 0 | 0 |
 
-**Conclusión operativa preliminar:** las tres piezas medidas repiten el patrón de semanas anteriores —el contenido se ve pero no mueve a nadie hacia el perfil ni al DM— y agregan un dato nuevo: la distribución del feed hacia no seguidores (reel y carrusel de semana 02) no se sostuvo esta semana, lo que sugiere que aquel alcance fue volatilidad del algoritmo y no una propiedad estable del formato. El alcance amplificado vía cuenta personal expone el contenido pero no traslada audiencia a `@nextlvl.ok`. Estos datos no son claims publicables.
+La pieza siguió acumulando views después de las 24 h (79 → 155), casi todo por Home (seguidores). La conversión se mantuvo en 0.
+
+## Corte — Stories 27/08 `¿Qué te frena para tener tu web?` (experimento: sticker de pregunta) — corte 31/08/2026
+
+Corte realizado el 31/08 (≈4 días después de publicar; la ventana excede las 24 h previstas, se registra como observación). Sólo se relevó la Story 2, que contenía el sticker de pregunta (métrica prioritaria del experimento). Stories 1 y 3 sin corte registrado.
+
+### Resultado del experimento — sticker de pregunta (métrica prioritaria)
+
+- **Respuestas al sticker: 0.** La mecánica que llegaba como DM —la de menor fricción disponible— no produjo ninguna interacción.
+
+### Métricas — Story 2 (sticker)
+
+| Métrica | Resultado |
+|---|---:|
+| Views | 29 |
+| % seguidores | 100% |
+| % no seguidores | 0% |
+| Espectadores | 27 |
+| Interacciones | 0 |
+| Respuestas | 0 |
+| Avanzar | 25 |
+| Siguiente story | 1 |
+| Salir | 1 |
+| Volver | 1 |
+| Visitas al perfil | 0 |
+| Seguidores nuevos | 0 |
+
+### Observaciones
+
+- Audiencia propia habitual (27 espectadores, 100% seguidores), consistente con las stories de semanas 01–03 sin amplificación externa.
+- 25 de 28 navegaciones fueron `Avanzar`: la audiencia pasó la pieza sin detenerse en el sticker.
+
+## Corte — Carrusel 28/08 `Escribir WEB no te compromete a nada` — corte 31/08/2026
+
+Corte realizado el 31/08 (≈72 h después de publicar; la ventana excede las 24 h previstas, se registra como observación).
+
+### Métricas
+
+| Métrica | Resultado |
+|---|---:|
+| Views | 252 |
+| Views de seguidores | 28,6% |
+| Views de no seguidores | 71,4% |
+| Origen: Other (explorar/hashtags) | 211 |
+| Origen: Home | 40 |
+| Origen: Perfil | 1 |
+| Espectadores (viewers) | 186 |
+| Interacciones | 1 |
+| Likes | 0 |
+| Comentarios | 0 |
+| Guardados | 0 |
+| Compartidos | 1 |
+| Cuentas que interactuaron | 1 |
+| Visitas al perfil | 0 |
+| Clics en enlace externo | 0 |
+| Seguidores nuevos | 0 |
+| DM atribuibles | 0 |
+
+### Observaciones
+
+- **El algoritmo volvió a distribuir un carrusel:** 211 views desde `Other` y 71,4% de no seguidores, un patrón casi idéntico al carrusel del 21/08 de semana 02 (175 desde `Other`, 66,8% no seguidores). La distribución del feed a no seguidores reaparece de forma intermitente en carruseles, sin que se identifique una causa controlable.
+- **186 espectadores, 1 interacción (un compartido), 0 conversión.** Es la pieza con mejor alcance de la semana y aun así no movió a nadie al perfil ni al DM. Refuerza que el problema no es alcance sino conversión.
+
+## Cierre semanal — 31/08/2026
+
+### Resultado del experimento de mecánicas nativas
+
+| Mecánica | Pieza | Resultado |
+|---|---|---|
+| Encuesta nativa | Stories martes 25/08 | 1 voto (amigo del titular; sin valor comercial) |
+| Sticker de pregunta | Stories jueves 27/08 | 0 respuestas |
+
+**El experimento fracasó.** Las mecánicas de interacción nativas, diseñadas para reducir la fricción del primer contacto, no produjeron ninguna interacción de prospectos. La hipótesis de que la fricción del CTA `WEB` explicaba los 0 DM queda debilitada: bajar la fricción al mínimo (tocar una encuesta, escribir una frase) tampoco movió a nadie.
+
+### Comparación semanas 01–03
+
+- **Alcance:** intermitente y no controlable. El reel de semana 02 (267 views) y los carruseles del 21/08 y 28/08 (66–71% no seguidores) muestran que el algoritmo distribuye esporádicamente, pero el mismo formato en otras semanas queda en audiencia propia (~30–60 espectadores). No hay un formato que garantice distribución.
+- **Interacción:** marginal en todas las semanas (1–4 interacciones por pieza, sin comentarios ni guardados en ninguna pieza de 3 semanas).
+- **Conversión:** **0 en toda la cadena durante 3 semanas.** 0 visitas al perfil atribuibles, 0 clics en enlace, 0 seguidores nuevos atribuibles, 0 DM comerciales. Ni el CTA por texto (semanas 01–02, ~400 cuentas alcanzadas) ni las mecánicas nativas (semana 03) produjeron un solo contacto.
+
+### Conclusión operativa
+
+El embudo se corta entre la vista y el perfil: el contenido se ve —a veces por cientos de no seguidores— pero nadie da el paso siguiente, sin importar la fricción del CTA. Tres semanas de datos sugieren que el problema no es el formato, el horario ni la mecánica de contacto, sino que el contenido no genera razón suficiente para iniciar una conversación (posible falta de prueba: la cuenta no muestra trabajo real ni casos). Estos datos no son claims publicables.
+
+### Pendientes
+
+- Sin corte adicional del reel del 24/08 (los datos del segundo relevamiento llegaron inválidos); queda el corte del 27/08 como registro final.
+- Stories 1 y 3 del jueves 27/08 sin corte registrado.
+- Decisión estratégica de semana 04 a partir de este cierre.
