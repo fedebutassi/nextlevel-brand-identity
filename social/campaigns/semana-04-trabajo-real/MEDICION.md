@@ -66,3 +66,37 @@ Corte a aproximadamente 24 horas de la publicación (01/09 · 10:00). **No compa
 - **0 interacciones, 0 conversión:** ningún like, reply ni visita al perfil en ninguna de las tres slides. El contenido fue visto pero no accionó ninguna cadena.
 - **Comparación con semana 03:** las stories de sem-03 (poll "¿cuánto cuesta?") tuvieron 55/53 views con ~75% seguidores y generaron interacción (poll). Las de sem-04 tienen menos views totales y 0 interacción — sin CTA interactivo ni compartido personal, el resultado es esperable.
 - **Variable confundidora aislada:** al no compartir en la cuenta personal, se confirma que ese amplificador explicaba una parte relevante del volumen previo. El baseline orgánico de las stories en @nextlevel ronda los 36-40 views entre seguidores.
+
+---
+
+## Corte — Carrusel 02/09 `Una web real, placa por placa` — corte 03/09/2026
+
+Corte a aproximadamente 24 horas de la publicación (02/09 · 16:00).
+
+### Métricas — 24 horas
+
+| Métrica | Resultado |
+|---|---:|
+| Views | 30 |
+| Views de seguidores | 100% |
+| Views de no seguidores | 0% |
+| Origen: Home | 30 |
+| Espectadores (viewers) | 7 |
+| Interacciones | 0 |
+| Likes | 0 |
+| Comentarios | 0 |
+| Guardados | 0 |
+| Compartidos | 0 |
+| Cuentas que interactuaron | 0 |
+| Visitas al perfil | 0 |
+| Clics en enlace externo | 0 |
+| Clics en dirección del negocio | 0 |
+| Seguidores nuevos | 0 |
+| DM atribuibles | 0 |
+
+### Observaciones
+
+- **El carrusel no salió de la base propia:** 100% seguidores, 0% no seguidores, todo el tráfico desde Home. En semanas anteriores los carruseles fueron el formato con mayor distribución algorítmica a no seguidores (sem-02: 66,8% y 71,4%; sem-03: 15,2% y 29,7% en el corte extendido). Esta pieza rompe ese patrón: el algoritmo no la distribuyó en absoluto.
+- **30 views / 7 espectadores:** la ratio views/espectadores (4,3x) es la más alta de todas las piezas de la campaña, lo que sugiere que los pocos que la vieron pasaron varias placas. Sin embargo, el volumen es el más bajo de cualquier carrusel publicado (sem-02: 151 y 252; sem-03: 79 y 155 en corte extendido).
+- **0 en toda la cadena:** ninguna interacción, ninguna visita al perfil, ningún seguidor nuevo, ningún DM. Cuarta pieza consecutiva de semana 04 con 0 conversión.
+- **Hipótesis de la semana bajo presión:** la premisa era que mostrar trabajo real moveería a la audiencia hacia el perfil. A tres piezas de cinco, el contenido de casos produce el mismo resultado que el contenido de proceso y de mecánicas nativas: 0 conversión. La falta de distribución algorítmica agrava el diagnóstico: sin alcance a no seguidores, la pieza sólo llega a la base existente, que ya demostró no convertir.
