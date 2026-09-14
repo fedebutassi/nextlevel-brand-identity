@@ -18,8 +18,9 @@ Estados permitidos:
 
 | ID | Fecha | Canal | Origen o pieza | Servicio | Tipo de negocio | Necesidad | Plazo | Presupuesto estimado | Estado | Fecha de propuesta | Valor propuesto (USD) | Resultado | Motivo de pérdida | Próxima acción | Fecha próxima acción |
 |---|---|---|---|---|---|---|---|---:|---|---|---:|---|---|---|---|
-
-No se inicializan oportunidades porque todavía no hay contactos documentados.
+| LED-001 | 2026-09-13 | Otro (formulario Meta) | Pauta semana-06 — carrusel perspectiva cliente | Web | — | — | — | — | perdido | — | — | — | Sin interés (respuesta negativa) | — | — |
+| LED-002 | 2026-09-13 | Otro (formulario Meta) | Pauta semana-06 — carrusel perspectiva cliente | Web | Estudio de movimiento | Por definir | Por definir | — | seguimiento | — | — | — | — | Esperar respuesta al mensaje de WhatsApp | 2026-09-16 |
+| LED-003 | 2026-09-12 | Otro (formulario Meta) | Pauta semana-06 — carrusel perspectiva cliente | Web | Por definir | Por definir | Por definir | — | seguimiento | — | — | — | — | Esperar respuesta al mensaje de WhatsApp | 2026-09-16 |
 
 ## Línea de base comercial — 2026-05-08 a 2026-08-05
 
