@@ -22,6 +22,23 @@ Estados permitidos:
 | LED-002 | 2026-09-13 | Otro (formulario Meta) | Pauta semana-06 — carrusel perspectiva cliente | Web | Estudio de movimiento | Por definir | Por definir | — | seguimiento | — | — | — | — | Esperar respuesta al mensaje de WhatsApp | 2026-09-16 |
 | LED-003 | 2026-09-12 | Otro (formulario Meta) | Pauta semana-06 — carrusel perspectiva cliente | Web | Por definir | Por definir | Por definir | — | seguimiento | — | — | — | — | Esperar respuesta al mensaje de WhatsApp | 2026-09-16 |
 
+## Rendimiento de pauta — Meta Ads
+
+### Campaña: lead form semana 06 (desde 11/09/2026)
+
+| Fecha | Impresiones | Alcance | Clicks | Link clicks | CPC (ARS) | CPM (ARS) | CTR | Gasto (ARS) |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| 2026-09-14 | 99 | 87 | 1 | 1 | 777,67 | 7.855,25 | 1,01% | 777,67 |
+| 2026-09-15 | 906 | 763 | 10 | 9 | 275,71 | 3.043,15 | 1,10% | 2.757,09 |
+| 2026-09-16 | 190 | 168 | 6 | 5 | 103,67 | 3.273,89 | 3,16% | 622,04 |
+| **Total** | **1.195** | **—** | **17** | **15** | **—** | **—** | **—** | **4.156,80** |
+
+Acciones adicionales: 5 reacciones (1 unlike), 1 post save, 21 post engagements totales.
+
+Leads generados por la pauta: LED-001, LED-002, LED-003 (3 contactos, 15 link clicks → 20% de conversión click-a-lead).
+
+---
+
 ## Línea de base comercial — 2026-05-08 a 2026-08-05
 
 | Etapa | Resultado | Tasa derivada |
