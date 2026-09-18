@@ -18,31 +18,13 @@ Cierre semanal: lunes 22/09/2026.
 
 ---
 
-## Corte — Reel 16/09 `Nadie lee tu web como vos` — corte 17/09/2026
+## Incidencia — publicaciones duplicadas (detectado 18/09/2026)
 
-Corte a aproximadamente 24 horas de la publicacion (16/09 · 10:00).
+El contenido de semana 06 no se publico. En su lugar se reprogramaron por error las piezas de semana 05 (`5 segundos para decidir` y `Antes de pedir tu web, defini estas 5 cosas`), que aparecen duplicadas en el grid de @nextlvl.ok.
 
-### Metricas — 24 horas
+Las metricas registradas el 17/09 (65 views, 44 espectadores) corresponden al **duplicado del reel de sem-05**, no al reel `Nadie lee tu web como vos` de sem-06. Se descartan de la medicion de esta campana.
 
-| Metrica | Resultado |
-|---|---:|
-| Views | 65 |
-| Views de seguidores | 54,7% |
-| Views de no seguidores | 45,3% |
-| Espectadores (viewers) | 44 |
-| Interacciones | 2 |
-| Likes | 2 |
-| Comentarios | 0 |
-| Guardados | 0 |
-| Compartidos | 0 |
-| Cuentas que interactuaron | 2 |
-| Actividad de perfil | 0 |
-| Seguidores nuevos | 0 |
-
-### Observaciones
-
-- **Caida fuerte vs. sem-05:** 65 views y 44 espectadores — un tercio del reel de sem-05 (197 views, 142 espectadores). Es el segundo peor reel de la campana, solo por encima de sem-04 (26 views, 15 espectadores).
-- **Distribucion a no seguidores moderada (45,3%):** similar a sem-05 (47,7%) en proporcion, pero sobre un volumen 3x menor. En numeros absolutos, ~29 views de no seguidores vs. ~94 en sem-05.
-- **0 shares, 0 saves:** el reel de sem-05 habia conseguido 1 share — aca no hay senales de distribucion activa. El contenido no genero impulso de compartir.
-- **2 likes (mejora minima):** sem-05 tuvo 1 like + 1 share; aca 2 likes + 0 shares. Interaccion equivalente en volumen pero sin el share que amplifica.
-- **Conversion sigue en 0:** 0 visitas al perfil, 0 seguidores nuevos. Sexta semana consecutiva sin movimiento en la cadena de conversion.
+**Acciones pendientes:**
+- Bajar los duplicados de sem-05 del feed.
+- Reprogramar las 3 piezas reales de sem-06 con fechas nuevas.
+- Actualizar la tabla de cortes programados con las fechas definitivas.
