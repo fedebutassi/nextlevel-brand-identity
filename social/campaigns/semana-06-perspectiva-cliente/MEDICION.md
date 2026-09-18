@@ -10,11 +10,11 @@ Metrica prioritaria de la semana: **guardados, compartidos, % de no seguidores a
 
 | Pieza | Publicacion | Corte 24 h |
 |---|---|---|
-| Reel `Nadie lee tu web como vos` | Martes 16/09 · 10:00 | Miercoles 17/09 · 10:00 |
-| Carrusel `5 senales de que tu negocio necesita mas que Instagram` | Jueves 18/09 · 16:00 | Viernes 19/09 · 16:00 |
-| Stories `Abri tu web en el celular` | Viernes 19/09 · 10:00 | Sabado 20/09 · 10:00 |
+| Reel `Nadie lee tu web como vos` | Martes 23/09 · 10:00 | Miercoles 24/09 · 10:00 |
+| Carrusel `5 senales de que tu negocio necesita mas que Instagram` | Jueves 25/09 · 16:00 | Viernes 26/09 · 16:00 |
+| Stories `Abri tu web en el celular` | Viernes 26/09 · 10:00 | Sabado 27/09 · 10:00 |
 
-Cierre semanal: lunes 22/09/2026.
+Cierre semanal: lunes 29/09/2026.
 
 ---
 
@@ -26,5 +26,5 @@ Las metricas registradas el 17/09 (65 views, 44 espectadores) corresponden al **
 
 **Acciones pendientes:**
 - Bajar los duplicados de sem-05 del feed.
-- Reprogramar las 3 piezas reales de sem-06 con fechas nuevas.
-- Actualizar la tabla de cortes programados con las fechas definitivas.
+- ~~Reprogramar las 3 piezas reales de sem-06 con fechas nuevas.~~ Hecho — nuevas fechas: 23, 25 y 26/09.
+- ~~Actualizar la tabla de cortes programados con las fechas definitivas.~~ Hecho.

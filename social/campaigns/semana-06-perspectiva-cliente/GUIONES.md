@@ -19,9 +19,9 @@ Tres piezas. Se mantienen los horarios probados. Instagram solamente.
 
 | Fecha y hora (Argentina) | Pieza | Funcion | CTA |
 |---|---|---|---|
-| Martes 16/09/2026 · 10:00 | Reel `Nadie lee tu web como vos` | Perspectiva del cliente vs. dueno del negocio | Sin CTA comercial — cierra con marca |
-| Jueves 18/09/2026 · 16:00 | Carrusel `5 senales de que tu negocio necesita mas que Instagram` | Checklist practico para evaluar presencia digital | CTA suave en cierre |
-| Viernes 19/09/2026 · 10:00 | 3 stories `Abri tu web en el celular` | Diagnostico que el seguidor hace desde su telefono | CTA en story 3 |
+| Martes 23/09/2026 · 10:00 | Reel `Nadie lee tu web como vos` | Perspectiva del cliente vs. dueno del negocio | Sin CTA comercial — cierra con marca |
+| Jueves 25/09/2026 · 16:00 | Carrusel `5 senales de que tu negocio necesita mas que Instagram` | Checklist practico para evaluar presencia digital | CTA suave en cierre |
+| Viernes 26/09/2026 · 10:00 | 3 stories `Abri tu web en el celular` | Diagnostico que el seguidor hace desde su telefono | CTA en story 3 |
 
 ## Especificaciones comunes de produccion
 
@@ -143,7 +143,7 @@ Mismo criterio que semana 05: prioridad en crecimiento de audiencia y senales al
 
 Contrastar contra semana 05 y contra el promedio de las semanas 01-04. Si el contenido de valor sigue generando mas distribucion que el contenido centrado en la marca y aparecen senales nuevas (guardados, follows), la direccion se sostiene. Si semana 06 repite el alcance de semana 05 sin mover follows ni guardados, evaluar ajustes de formato o angulo.
 
-Registrar en `MEDICION.md` de esta campana a las 24 horas de cada pieza y cerrar el lunes 22/09/2026.
+Registrar en `MEDICION.md` de esta campana a las 24 horas de cada pieza y cerrar el lunes 29/09/2026.
 
 Los resultados son datos internos; no se convierten en claims publicables.
 
